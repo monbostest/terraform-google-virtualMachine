@@ -1,3 +1,3 @@
 variable "vmname" {
-   
+   default = "tree"
 }
